@@ -1,0 +1,2 @@
+
+quizquestions = open(quiz,w)

@@ -1,0 +1,12 @@
+History
+Easy Quiz
+question - "How many wives did Henry VII have?"
+1. A) 8  B) 12
+question - "Which year was the Great Fire of London?"
+2. A) 1871 B) 1666
+question - "Which month was the Declaration of Independence signed?"
+3. A) January B) August
+question - "Which empire is lasted longer?"
+4. A) Byzantine B) Holy Roman
+question - "Who was the first Emperor of Rome"
+5. A) Julius Caesar B) Augustus
